@@ -28,7 +28,7 @@ def videocheck(url):
         content = video.text
         if url in content:
             print("Video is up and working, downloading..")
-            # Add call to downloader function here
+            downloader(url)
         else:
             print("Video not found")
 
