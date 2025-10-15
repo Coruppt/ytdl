@@ -1,3 +1,3 @@
-# ytdl
-Tool designed to download youtube videos, for fun!
-I know ytdlp already exists, but why not code my own
+### ytdl
+A CLI tool designed to fetch a youtube link and download it
+Made entirely by me, with the help of some libraries ofc
